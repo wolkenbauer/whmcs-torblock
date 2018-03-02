@@ -2,7 +2,7 @@ whmcs-torblock
 
 A simple WHMCS module for blocking TOR traffic to the clientarea.
 
-Compatible with WHMCS 6/7
+Compatible with WHMCS 7.x
 
 
 Installation:
